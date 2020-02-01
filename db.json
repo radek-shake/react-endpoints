@@ -1,0 +1,16 @@
+{
+  "autocomplete": [
+    { "id": 123231, "name": "High Seas Hotel" },
+    { "id": 9299, "name": "William Page Inn" },
+    { "id": 59291, "name": "Country Inn-Stafford" },
+    { "id": 102929, "name": "Chelsea Pines Inn" },
+    { "id": 129, "name": "Sailor Jack Oceanfront Motel" }
+  ],
+  "hotels": [
+    { "id": 123231, "name": "High Seas Hotel", "address": "2888  Murry Street, Norfolk, 757-633-7853", "photo": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=881&q=80" },
+    { "id": 9299, "name": "William Page Inn", "address": "1486  Norman Street, Long Beach, 5628244485", "photo": "https://images.unsplash.com/photo-1429667947446-3c93a979b7e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80" },
+    { "id": 59291, "name": "Country Inn-Stafford", "address": "789  Jett Lane, Los Angeles", "photo": "https://images.unsplash.com/photo-1536122469801-6ebdd2a302e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80" },
+    { "id": 102929, "name": "Chelsea Pines Inn", "address": "191  Hornor Avenue, Boston, 918-355-5237", "photo": "https://images.unsplash.com/photo-1437851580572-5a752a3f8cc2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80" },
+    { "id": 129, "name": "Sailor Jack Oceanfront Motel", "address": "2417  Kinney Street, New York, 716-307-1992", "photo": "https://images.unsplash.com/photo-1534430480872-3498386e7856?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80" }
+  ]
+}
